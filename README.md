@@ -1,2 +1,2 @@
 # Swedish-AI-teacher
-Ollama + Langchain to create an AI Swedish tutor (under construction)
+Ollama + Langchain + Gradio to create an AI Swedish tutor (under construction)
